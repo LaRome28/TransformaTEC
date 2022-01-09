@@ -4207,7 +4207,7 @@ iframe {
     border-radius: 50%;
     margin-top: 15px;
     margin-right: 10px;
-    float: left;
+    float:left;
 }
 
 @media only screen and (max-width: 992px) {
@@ -4694,7 +4694,7 @@ iframe {
     display: inline-block;
     width: 60px;
     border-radius: 50%;
-    float: left;
+    float:left;
 }
 
 .widget-news-1 .news-wrapper .user-thumbnail .user-info {
@@ -5158,9 +5158,9 @@ iframe {
 }
 
 .header-info .header {
-    background-color: var(--theme-color);
+    background-color: #1e8334;
     color: #ffffff;
-    border-color: var(--theme-color);
+    border-color: #1e8334;
 }
 
 .header-info .header .header-container ul>li>a {
